@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "google-auth-library": "^7.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.6",
+    "nodemailer": "^6.6.3",
+    "twilio": "^3.67.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
